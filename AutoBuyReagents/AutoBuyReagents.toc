@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AutoBuyReagents
+## Notes: Automatically buys reagents and poisons up to a specified amount.
+## SavedVariablesPerCharacter: AutoBuyReagentsDB
+## Author: sekantti1
+## Version: 1.0
+
+AutoBuyReagents.lua

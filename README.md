@@ -1,0 +1,1 @@
+This addon automatically buys reagents, poisons, arrows and food up to a specified amount.
